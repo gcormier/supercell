@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name supercell)(type Legacy)(uri C:/Users/Greg/Desktop/supercell/Hardware/supercell.lib)(options "")(descr ""))
+  (lib (name SuperCell-rescue)(type Legacy)(uri ${KIPRJMOD}/SuperCell-rescue.lib)(options "")(descr ""))
+)

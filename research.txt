@@ -1,0 +1,6 @@
+Shunt is 10mOhm, which gives 60mV at 6A for nominal.
+Even at 8A (2C, 4000mAh?) still within tolerance of IC (81.92mV)
+
+ISL28023 looks dope. External temperature sensor, good specs, 16bit adc, built in voltage reg
+- sensor not worth it maybe? arduino can read sensor
+shitty package though
